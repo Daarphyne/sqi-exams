@@ -1,0 +1,59 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter&family=Sen:wght@700&display=swap');
+
+
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+.navbar{
+    background-color:white; 
+    color: white;
+    height: 120px;
+}
+
+#company{
+    font-family: Inter;
+    font-size: 20px;
+    
+}
+#Resources{
+    font-family: Inter;
+    font-size: 20px;
+}
+.button{
+    width:100px;
+    height:56px;
+    border-radius: 10px;
+    border: none;
+    background-color: #0087DB;
+}
+
+/* .shak{
+    width: 236px;
+    height: 47px;
+     margin-top: 10px;
+} */
+.nav-link{
+    font-family: sen; font-size: 20px;
+    font-weight: 500; line-height: 32px; 
+    color: white;
+}
+.dropdown-item{
+    background-color:rebeccapurple;
+    color: black;
+    font-size: 24px;
+    font-weight: 400;
+    font-family: sen;
+}
+.start{
+    color: #0087DB;
+}
+h2{
+    color: #0087DB;
+    font-size: 20px;
+}
+p{
+    font-size: 18px;
+    font-weight: 700;
+}
